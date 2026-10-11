@@ -1,0 +1,7 @@
+APPLE INC. VÀ CỔ PHIẾU AAPL
+
+Apple Inc. là công ty công nghệ có mã cổ phiếu AAPL.
+Dataset trong bài được sử dụng để phân tích dữ liệu lịch sử,
+thống kê giá và minh họa việc truy xuất thông tin bằng RAG.
+
+Dữ liệu lịch sử không bảo đảm xu hướng giá trong tương lai.

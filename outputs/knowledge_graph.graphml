@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="relation" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="AAPL" />
+    <node id="AAPL Stock History" />
+    <node id="Trading Date" />
+    <node id="Close Price" />
+    <node id="Daily Return" />
+    <node id="Apple Inc." />
+    <node id="Diabetes Prediction Model" />
+    <node id="Outcome" />
+    <node id="Pima Indians Diabetes" />
+    <node id="Glucose" />
+    <node id="BMI" />
+    <node id="BloodPressure" />
+    <node id="Age" />
+    <edge source="AAPL" target="AAPL Stock History">
+      <data key="d0">HAS_DATA</data>
+    </edge>
+    <edge source="AAPL Stock History" target="Trading Date">
+      <data key="d0">CONTAINS_FIELD</data>
+    </edge>
+    <edge source="AAPL Stock History" target="Close Price">
+      <data key="d0">CONTAINS_FIELD</data>
+    </edge>
+    <edge source="AAPL Stock History" target="Daily Return">
+      <data key="d0">CONTAINS_FIELD</data>
+    </edge>
+    <edge source="Apple Inc." target="AAPL">
+      <data key="d0">HAS_TICKER</data>
+    </edge>
+    <edge source="Diabetes Prediction Model" target="Outcome">
+      <data key="d0">PREDICTS</data>
+    </edge>
+    <edge source="Diabetes Prediction Model" target="Pima Indians Diabetes">
+      <data key="d0">TRAINED_ON</data>
+    </edge>
+    <edge source="Pima Indians Diabetes" target="Glucose">
+      <data key="d0">CONTAINS_FEATURE</data>
+    </edge>
+    <edge source="Pima Indians Diabetes" target="BMI">
+      <data key="d0">CONTAINS_FEATURE</data>
+    </edge>
+    <edge source="Pima Indians Diabetes" target="BloodPressure">
+      <data key="d0">CONTAINS_FEATURE</data>
+    </edge>
+    <edge source="Pima Indians Diabetes" target="Age">
+      <data key="d0">CONTAINS_FEATURE</data>
+    </edge>
+    <edge source="Pima Indians Diabetes" target="Outcome">
+      <data key="d0">CONTAINS_LABEL</data>
+    </edge>
+  </graph>
+</graphml>

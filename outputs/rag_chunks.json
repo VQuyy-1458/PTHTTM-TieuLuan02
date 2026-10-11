@@ -1,0 +1,44 @@
+[
+  {
+    "source": "diabetes_features.txt",
+    "category": "diabetes",
+    "chunk_id": 0,
+    "text": "CÁC ĐẶC TRƯNG TRONG PIMA INDIANS DIABETES Pregnancies: số lần mang thai trong dataset. Glucose: chỉ số glucose được ghi nhận. BloodPressure: huyết áp được ghi nhận. SkinThickness: độ dày nếp gấp da. Insulin: chỉ số insulin. BMI: chỉ số khối cơ thể. DiabetesPedigreeFunction: đặc trưng liên quan tiền sử gia đình theo cách biểu diễn của bộ dữ liệu. Age: tuổi. Outcome: nhãn 0 hoặc 1 của mẫu trong dataset. Tên trường cần được đối chiếu với CSV thực tế. Outcome là nhãn dữ liệu, không phải kết luận chẩn đoán cho người sử dụng website."
+  },
+  {
+    "source": "diabetes_model_limits.txt",
+    "category": "diabetes",
+    "chunk_id": 0,
+    "text": "GIỚI HẠN MÔ HÌNH DỰ ĐOÁN Mô hình được huấn luyện trên Pima Indians Diabetes, có phạm vi đại diện hạn chế. Accuracy hoặc ROC-AUC trên tập kiểm thử không bảo đảm hiệu năng tương tự trong môi trường y tế thực tế. Không sử dụng kết quả để tự chẩn đoán, tự điều trị hoặc thay thế tư vấn của nhân viên y tế."
+  },
+  {
+    "source": "diabetes_overview.txt",
+    "category": "diabetes",
+    "chunk_id": 0,
+    "text": "BỆNH TIỂU ĐƯỜNG - TỔNG QUAN Tiểu đường là nhóm bệnh chuyển hóa liên quan đến tình trạng glucose máu tăng. Việc chẩn đoán cần dựa trên xét nghiệm và tiêu chuẩn chuyên môn. Một mô hình học máy trên bộ dữ liệu nhỏ không thể thay thế bác sĩ hoặc các xét nghiệm chẩn đoán. Tài liệu này phục vụ bài tập học máy và hỏi đáp thông tin cơ bản."
+  },
+  {
+    "source": "aapl_dataset_statistics.txt",
+    "category": "stock",
+    "chunk_id": 0,
+    "text": "THỐNG KÊ DATASET AAPL Tên file: AAPL_stock_data.csv Số bản ghi hợp lệ: 10971 Khoảng thời gian: 1980-12-12 đến 2024-06-20. Giá đóng cửa cuối cùng trong dataset: 209.6498 Giá đóng cửa thấp nhất trong dataset: 0.0491 Giá đóng cửa cao nhất trong dataset: 216.6700 Giá đóng cửa trung bình: 21.8224 Giá đóng cửa trung vị: 0.5268 Lợi suất ngày trung bình (%): 0.1071 Độ lệch chuẩn lợi suất ngày (%): 2.7920 Các số liệu mô tả dataset lịch sử đã tải về, không phải giá thị trường thời gian thực và không phải dự báo chắc chắn."
+  },
+  {
+    "source": "aapl_overview.txt",
+    "category": "stock",
+    "chunk_id": 0,
+    "text": "APPLE INC. VÀ CỔ PHIẾU AAPL Apple Inc. là công ty công nghệ có mã cổ phiếu AAPL. Dataset trong bài được sử dụng để phân tích dữ liệu lịch sử, thống kê giá và minh họa việc truy xuất thông tin bằng RAG. Dữ liệu lịch sử không bảo đảm xu hướng giá trong tương lai."
+  },
+  {
+    "source": "stock_columns.txt",
+    "category": "stock",
+    "chunk_id": 0,
+    "text": "CÁC TRƯỜNG DỮ LIỆU CỔ PHIẾU Date: ngày giao dịch. Open: giá mở cửa. High: giá cao nhất trong phiên. Low: giá thấp nhất trong phiên. Close: giá đóng cửa. Volume: khối lượng giao dịch. Adjusted Close: giá đóng cửa đã điều chỉnh nếu dataset cung cấp. Tên cột thực tế có thể khác tùy nguồn dữ liệu. Cần kiểm tra file CSV trước khi tính toán."
+  },
+  {
+    "source": "stock_risk.txt",
+    "category": "stock",
+    "chunk_id": 0,
+    "text": "GIỚI HẠN KHI PHÂN TÍCH CỔ PHIẾU Giá cổ phiếu chịu ảnh hưởng của nhiều yếu tố doanh nghiệp, kinh tế và thị trường. Giá lịch sử, lợi suất trung bình và đường trung bình động không phải cam kết về lợi nhuận. Kết quả phân tích trong bài phục vụ học tập, không phải khuyến nghị mua hoặc bán cổ phiếu."
+  }
+]

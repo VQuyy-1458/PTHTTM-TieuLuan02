@@ -1,0 +1,14 @@
+{
+  "ticker": "AAPL",
+  "source_file": "AAPL_stock_data.csv",
+  "rows": 10971,
+  "start_date": "1980-12-12",
+  "end_date": "2024-06-20",
+  "latest_close_in_dataset": 209.64979553222656,
+  "minimum_close": 0.0491070002317428,
+  "maximum_close": 216.6699981689453,
+  "mean_close": 21.822430297967667,
+  "median_close": 0.5267860293388367,
+  "mean_daily_return_pct": 0.10710274633723085,
+  "daily_return_std_pct": 2.791964209441445
+}

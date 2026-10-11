@@ -1,0 +1,24 @@
+.streamlit/secrets.toml
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# Python cache
+.pytest_cache/
+*.pyo
+
+# Other virtual environments
+env/
+ENV/
+
+# Other secret files
+.env.*
+secrets.toml
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

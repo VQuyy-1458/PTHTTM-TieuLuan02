@@ -1,0 +1,8 @@
+BỆNH TIỂU ĐƯỜNG - TỔNG QUAN
+
+Tiểu đường là nhóm bệnh chuyển hóa liên quan đến tình trạng glucose
+máu tăng. Việc chẩn đoán cần dựa trên xét nghiệm và tiêu chuẩn chuyên môn.
+Một mô hình học máy trên bộ dữ liệu nhỏ không thể thay thế bác sĩ
+hoặc các xét nghiệm chẩn đoán.
+
+Tài liệu này phục vụ bài tập học máy và hỏi đáp thông tin cơ bản.

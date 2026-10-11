@@ -1,0 +1,12 @@
+CÁC TRƯỜNG DỮ LIỆU CỔ PHIẾU
+
+Date: ngày giao dịch.
+Open: giá mở cửa.
+High: giá cao nhất trong phiên.
+Low: giá thấp nhất trong phiên.
+Close: giá đóng cửa.
+Volume: khối lượng giao dịch.
+Adjusted Close: giá đóng cửa đã điều chỉnh nếu dataset cung cấp.
+
+Tên cột thực tế có thể khác tùy nguồn dữ liệu.
+Cần kiểm tra file CSV trước khi tính toán.

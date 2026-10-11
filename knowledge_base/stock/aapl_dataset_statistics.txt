@@ -1,0 +1,30 @@
+THỐNG KÊ DATASET AAPL
+
+Tên file: AAPL_stock_data.csv
+Số bản ghi hợp lệ: 10971
+Khoảng thời gian: 1980-12-12
+đến 2024-06-20.
+
+Giá đóng cửa cuối cùng trong dataset:
+209.6498
+
+Giá đóng cửa thấp nhất trong dataset:
+0.0491
+
+Giá đóng cửa cao nhất trong dataset:
+216.6700
+
+Giá đóng cửa trung bình:
+21.8224
+
+Giá đóng cửa trung vị:
+0.5268
+
+Lợi suất ngày trung bình (%):
+0.1071
+
+Độ lệch chuẩn lợi suất ngày (%):
+2.7920
+
+Các số liệu mô tả dataset lịch sử đã tải về, không phải giá
+thị trường thời gian thực và không phải dự báo chắc chắn.

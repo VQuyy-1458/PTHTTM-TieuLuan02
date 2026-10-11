@@ -1,0 +1,15 @@
+CÁC ĐẶC TRƯNG TRONG PIMA INDIANS DIABETES
+
+Pregnancies: số lần mang thai trong dataset.
+Glucose: chỉ số glucose được ghi nhận.
+BloodPressure: huyết áp được ghi nhận.
+SkinThickness: độ dày nếp gấp da.
+Insulin: chỉ số insulin.
+BMI: chỉ số khối cơ thể.
+DiabetesPedigreeFunction: đặc trưng liên quan tiền sử gia đình
+theo cách biểu diễn của bộ dữ liệu.
+Age: tuổi.
+Outcome: nhãn 0 hoặc 1 của mẫu trong dataset.
+
+Tên trường cần được đối chiếu với CSV thực tế. Outcome là nhãn dữ liệu,
+không phải kết luận chẩn đoán cho người sử dụng website.

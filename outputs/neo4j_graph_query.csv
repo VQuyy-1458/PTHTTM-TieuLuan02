@@ -1,0 +1,13 @@
+﻿source_type,source,relation,target_type,target
+['Ticker'],AAPL,HAS_DATA,['Dataset'],AAPL Stock History
+['Dataset'],AAPL Stock History,CONTAINS_FIELD,['Feature'],Trading Date
+['Dataset'],AAPL Stock History,CONTAINS_FIELD,['Feature'],Close Price
+['Dataset'],AAPL Stock History,CONTAINS_FIELD,['Feature'],Daily Return
+['Company'],Apple Inc.,HAS_TICKER,['Ticker'],AAPL
+['Model'],Diabetes Prediction Model,PREDICTS,['Label'],Outcome
+['Model'],Diabetes Prediction Model,TRAINED_ON,['Dataset'],Pima Indians Diabetes
+['Dataset'],Pima Indians Diabetes,CONTAINS_FEATURE,['Feature'],Glucose
+['Dataset'],Pima Indians Diabetes,CONTAINS_FEATURE,['Feature'],BMI
+['Dataset'],Pima Indians Diabetes,CONTAINS_FEATURE,['Feature'],BloodPressure
+['Dataset'],Pima Indians Diabetes,CONTAINS_FEATURE,['Feature'],Age
+['Dataset'],Pima Indians Diabetes,CONTAINS_LABEL,['Label'],Outcome

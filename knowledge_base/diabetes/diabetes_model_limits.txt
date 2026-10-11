@@ -1,0 +1,8 @@
+GIỚI HẠN MÔ HÌNH DỰ ĐOÁN
+
+Mô hình được huấn luyện trên Pima Indians Diabetes, có phạm vi
+đại diện hạn chế. Accuracy hoặc ROC-AUC trên tập kiểm thử không bảo đảm
+hiệu năng tương tự trong môi trường y tế thực tế.
+
+Không sử dụng kết quả để tự chẩn đoán, tự điều trị hoặc thay thế
+tư vấn của nhân viên y tế.
